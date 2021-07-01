@@ -1,2 +1,4 @@
 server:
   port: 9008
+test:
+  value: "From properties"
